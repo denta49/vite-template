@@ -1,7 +1,10 @@
+import { Button } from "@/components/ui/button.tsx";
 
 function App() {
   return (
-   <div>TEst</div>
+    <div>
+      <Button />
+    </div>
   );
 }
 
