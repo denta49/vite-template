@@ -3,12 +3,8 @@ import { Button } from "@/components/ui/button.tsx";
 function App() {
   return (
     <div>
-      <Button />sdsdsd
-
-      sdsd
-
-      sd
-      s
+      <Button />
+      sdsdsd sd sdsd sd s
     </div>
   );
 }
